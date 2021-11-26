@@ -26,7 +26,7 @@
   
   <ul>
     <li>DataSource는 JDBC 명세의 일부분이면서 일반화된 연결 팩토리입니다.</li><br>
-    <li>DB와 관계된 connection 정보를 담고 있으며, Bean을 인자로 사용합니다.</li><br>
+    <li>DB와 관계된 Connection 정보를 담고 있으며, Bean을 인자로 사용합니다.</li><br>
     <li>Spring은 DataSource로 DB와의 연결을 획득합니다.</li><br>
   </ul>
  
